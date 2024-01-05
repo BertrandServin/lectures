@@ -1,6 +1,6 @@
 title: [Bertrand's Lectures]
 description: [A place to share slides]
-logo: /assets/img/shadok_diplome.jpg
+logo: /assets/img/shadok_diplome_small.jpg
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
