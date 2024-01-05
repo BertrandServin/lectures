@@ -1,1 +1,1 @@
-- (slides/multiple_testing.tml)[Multiple Testing]
+- [Multiple testing](slides/multiple_testing.tml)
