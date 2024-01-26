@@ -1,4 +1,4 @@
-- [Multiple testing (UE Méthodes Numériques Masters CSILS / CARE)](slides/MethNum_Multiple_testing.html)
+- [Multiple testing (UE Méthodes Numériques Masters CSILS / CARE)](slides/MethNum_Multiple_testing.html) [Version with R Code](slides/MuthNum_Multiple_testing_with_code.html)
 - Linear Model (UE Méthodes Numériques Masters CSILS / CARE):
     - [Lecture](slides/MethNum_LinearModel.pdf)
     - [Practical](slides/MethNum_LinearModel_TP.html)
